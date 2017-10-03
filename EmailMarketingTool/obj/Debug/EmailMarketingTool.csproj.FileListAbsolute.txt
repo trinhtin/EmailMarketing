@@ -1,0 +1,12 @@
+C:\Users\Phuc\Documents\Visual Studio 2017\Projects\c\EmailMarketingTool\EmailMarketingTool\bin\Debug\EmailMarketingTool.exe.config
+C:\Users\Phuc\Documents\Visual Studio 2017\Projects\c\EmailMarketingTool\EmailMarketingTool\bin\Debug\EmailMarketingTool.exe
+C:\Users\Phuc\Documents\Visual Studio 2017\Projects\c\EmailMarketingTool\EmailMarketingTool\bin\Debug\EmailMarketingTool.pdb
+C:\Users\Phuc\Documents\Visual Studio 2017\Projects\c\EmailMarketingTool\EmailMarketingTool\obj\Debug\EmailMarketingTool.csprojResolveAssemblyReference.cache
+C:\Users\Phuc\Documents\Visual Studio 2017\Projects\c\EmailMarketingTool\EmailMarketingTool\obj\Debug\EmailMarketingTool.exe
+C:\Users\Phuc\Documents\Visual Studio 2017\Projects\c\EmailMarketingTool\EmailMarketingTool\obj\Debug\EmailMarketingTool.pdb
+E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\bin\Debug\EmailMarketingTool.exe.config
+E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\bin\Debug\EmailMarketingTool.exe
+E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\bin\Debug\EmailMarketingTool.pdb
+E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\obj\Debug\EmailMarketingTool.csprojResolveAssemblyReference.cache
+E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\obj\Debug\EmailMarketingTool.exe
+E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\obj\Debug\EmailMarketingTool.pdb
