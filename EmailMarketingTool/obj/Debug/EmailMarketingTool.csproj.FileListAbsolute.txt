@@ -22,3 +22,9 @@ E:\GitHub_Event\Gmail\EmailMarketing\EmailMarketingTool\bin\Debug\EmailMarketing
 E:\GitHub_Event\Gmail\EmailMarketing\EmailMarketingTool\obj\Debug\EmailMarketingTool.csprojResolveAssemblyReference.cache
 E:\GitHub_Event\Gmail\EmailMarketing\EmailMarketingTool\obj\Debug\EmailMarketingTool.exe
 E:\GitHub_Event\Gmail\EmailMarketing\EmailMarketingTool\obj\Debug\EmailMarketingTool.pdb
+E:\File\Github\EmailMarketing\EmailMarketing\EmailMarketingTool\bin\Debug\EmailMarketingTool.exe.config
+E:\File\Github\EmailMarketing\EmailMarketing\EmailMarketingTool\obj\Debug\EmailMarketingTool.exe
+E:\File\Github\EmailMarketing\EmailMarketing\EmailMarketingTool\obj\Debug\EmailMarketingTool.pdb
+E:\File\Github\EmailMarketing\EmailMarketing\EmailMarketingTool\bin\Debug\EmailMarketingTool.exe
+E:\File\Github\EmailMarketing\EmailMarketing\EmailMarketingTool\bin\Debug\EmailMarketingTool.pdb
+E:\File\Github\EmailMarketing\EmailMarketing\EmailMarketingTool\obj\Debug\EmailMarketingTool.csprojResolveAssemblyReference.cache
