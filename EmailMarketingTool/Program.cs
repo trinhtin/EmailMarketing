@@ -28,8 +28,8 @@ namespace EmailMarketingTool
             //    SendEmail.SendEmailMarketing(toAddress, fromAddress, pass, subject, content);
             //    IDNumber++;
             //}
-
-            SendEmail.Page_Load(null, EventArgs.Empty);
+            string contents = File.ReadAllText(@"E:\GitHub_Event\Gmail\EmailMarketing\EmailTemplates\SignUpForm.html");
+            SendEmail.Page_Load(contents);
 
 
         }

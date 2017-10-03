@@ -10,3 +10,9 @@ E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\bin\Debug\EmailMarket
 E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\obj\Debug\EmailMarketingTool.csprojResolveAssemblyReference.cache
 E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\obj\Debug\EmailMarketingTool.exe
 E:\Nam3\Extra\EmailMarketingTool-master\EmailMarketingTool\obj\Debug\EmailMarketingTool.pdb
+E:\Nam3\Extra\GmailMarketingTool\EmailMarketingTool\bin\Debug\EmailMarketingTool.exe.config
+E:\Nam3\Extra\GmailMarketingTool\EmailMarketingTool\bin\Debug\EmailMarketingTool.exe
+E:\Nam3\Extra\GmailMarketingTool\EmailMarketingTool\bin\Debug\EmailMarketingTool.pdb
+E:\Nam3\Extra\GmailMarketingTool\EmailMarketingTool\obj\Debug\EmailMarketingTool.csprojResolveAssemblyReference.cache
+E:\Nam3\Extra\GmailMarketingTool\EmailMarketingTool\obj\Debug\EmailMarketingTool.exe
+E:\Nam3\Extra\GmailMarketingTool\EmailMarketingTool\obj\Debug\EmailMarketingTool.pdb

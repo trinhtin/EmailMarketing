@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Mail;
@@ -71,21 +72,10 @@ namespace EmailMarketingTool
             //send the email
             smtp.Send(mail);
         }
-        public static void Page_Load(object sender, EventArgs e)
+        public static void Page_Load(string contents)
         {
-            string Themessage = @"<html>
-                              <body>
-                                <table width=""100%"">
-                                <tr>
-                                    <td style=""font-style:arial; color:maroon; font-weight:bold"">
-                                   Hi! <br>
-                                    <img src=cid:myImageID>
-                                    </td>
-                                </tr>
-                                </table>
-                                </body>
-                                </html>";
-            sendHtmlEmail("minhhoanghoangvo@gmail.com", "cdtdmathoi@gmail.com", Themessage, "Scoutfoto", "Test HTML Email", "smtp.gmail.com", 25);
+            
+            sendHtmlEmail("minhhoanghoangvo@gmail.com", "cdtdmathoi@gmail.com", contents, "Scoutfoto", "Test HTML Email", "smtp.gmail.com", 25);
         }
     }
 }
