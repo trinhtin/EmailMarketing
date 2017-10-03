@@ -44,14 +44,14 @@ namespace EmailMarketingTool
             AlternateView htmlView = AlternateView.CreateAlternateViewFromString(body, null, "text/html");
 
             //Add Image
-            LinkedResource theEmailImage = new LinkedResource("E:\\IMG_3332.jpg");
-            theEmailImage.ContentId = "myImageID";
+            //LinkedResource theEmailImage = new LinkedResource("E:\\IMG_3332.jpg");
+            //theEmailImage.ContentId = "myImageID";
 
             //Add the Image to the Alternate view
-            htmlView.LinkedResources.Add(theEmailImage);
+            //htmlView.LinkedResources.Add(theEmailImage);
 
             //Add view to the Email Message
-            mail.AlternateViews.Add(htmlView);
+           // mail.AlternateViews.Add(htmlView);
 
             //set the "from email" address and specify a friendly 'from' name
             mail.From = new MailAddress(from_Email, from_Name);
@@ -81,7 +81,7 @@ namespace EmailMarketingTool
                                 @"</table>
                                 </body>
                                 </html>";
-            sendHtmlEmail("minhhoanghoangvo@gmail.com", "tintt@uit.edu.vn", Themessage, "Scoutfoto", "Test HTML Email", "smtp.gmail.com", 25);
+            sendHtmlEmail("minhhoanghoangvo@gmail.com", "cdtdmathoi@gmail.com", Themessage, "Scoutfoto", "Test HTML Email", "smtp.gmail.com", 25);
         }
     }
 }
