@@ -74,8 +74,14 @@ namespace EmailMarketingTool
         }
         public static void Page_Load(string contents)
         {
-            
-            sendHtmlEmail("minhhoanghoangvo@gmail.com", "cdtdmathoi@gmail.com", contents, "Scoutfoto", "Test HTML Email", "smtp.gmail.com", 25);
+            string Themessage = @"<html>
+                              <body>
+                                <table width=""100%""> "
+                                + contents +
+                                @"</table>
+                                </body>
+                                </html>";
+            sendHtmlEmail("minhhoanghoangvo@gmail.com", "tintt@uit.edu.vn", Themessage, "Scoutfoto", "Test HTML Email", "smtp.gmail.com", 25);
         }
     }
 }
